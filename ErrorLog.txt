@@ -1,0 +1,23 @@
+The INSERT statement conflicted with the CHECK constraint "CK_Age". The conflict occurred in database "EmployeesManagement", table "dbo.EmployeeInformation", column 'Birthdate'.
+The statement has been terminated.The INSERT statement conflicted with the CHECK constraint "CK_Age". The conflict occurred in database "EmployeesManagement", table "dbo.EmployeeInformation", column 'Birthdate'.
+The statement has been terminated.The INSERT statement conflicted with the CHECK constraint "CK_Age". The conflict occurred in database "EmployeesManagement", table "dbo.EmployeeInformation", column 'Birthdate'.
+The statement has been terminated.=============Error Logging ===========
+===========Start============= 3/24/2020 11:37:52 AM
+Error Message: The INSERT statement conflicted with the CHECK constraint "CK_Age". The conflict occurred in database "EmployeesManagement", table "dbo.EmployeeInformation", column 'Birthdate'.
+The statement has been terminated.
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DatabaseManagement.clsEmployee.Update() in C:\Users\safa.k\Desktop\FinalTask_WithErrorProvider\DatabaseManagement\DatabaseManagement\clsEmployee.cs:line 289
+===========End============= 3/24/2020 11:37:52 AM
+=============Error Logging ===========
+===========Start============= 3/24/2020 11:38:36 AM
+Error Message: The INSERT statement conflicted with the CHECK constraint "CK_Age". The conflict occurred in database "EmployeesManagement", table "dbo.EmployeeInformation", column 'Birthdate'.
+The statement has been terminated.
+===========End============= 3/24/2020 11:38:36 AM

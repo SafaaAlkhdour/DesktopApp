@@ -1,0 +1,10 @@
+C:\Users\safa.k\source\repos\DatabaseManagement\DatabaseManagement\bin\Debug\DatabaseManagement.dll
+C:\Users\safa.k\source\repos\DatabaseManagement\DatabaseManagement\bin\Debug\DatabaseManagement.pdb
+C:\Users\safa.k\source\repos\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.dll
+C:\Users\safa.k\source\repos\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.pdb
+C:\Users\safa.k\source\repos\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.csprojAssemblyReference.cache
+C:\Users\safa.k\Desktop\FinalTask_WithErrorProvider\DatabaseManagement\DatabaseManagement\bin\Debug\DatabaseManagement.dll
+C:\Users\safa.k\Desktop\FinalTask_WithErrorProvider\DatabaseManagement\DatabaseManagement\bin\Debug\DatabaseManagement.pdb
+C:\Users\safa.k\Desktop\FinalTask_WithErrorProvider\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.csprojAssemblyReference.cache
+C:\Users\safa.k\Desktop\FinalTask_WithErrorProvider\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.dll
+C:\Users\safa.k\Desktop\FinalTask_WithErrorProvider\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.pdb
